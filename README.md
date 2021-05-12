@@ -423,6 +423,38 @@ __Ans.__
      * ECMAScript is the scripting language that forms the basis of JavaScript. ECMAScript standardized by the ECMA International standards organization in the ECMA-262 and ECMA-402 specifications. The first edition of ECMAScript was released in 1997.
      * ECMAScript (European Computer Manufacturers Association) Script is a specification for the scripting language standards. It has standardized Javascript which made Javascript the best implementation of ECMAScript.
 
+     **[⬆ Back to Top](#table-of-contents)**
+     
+### Question: What is the difference between onload() and document.ready() methods?
+Body.Onload() event will be called only after the DOM and associated resources like images get loaded, but jQuery's document.the ready() event will be called once the DOM is loaded, and it does not wait for the resources such as images to be loaded.
+
+
+   **[⬆ Back to Top](#table-of-contents)**
+     
+### Question: What is the difference between jquery.min.js and jquery.js?
+jquery.min.js is a compressed version of jquery.js(whitespaces and comments are removed, shorter variable names are used, and so on) to preserve bandwidth. In terms of functionality, they are absolutely the same. It is recommended to use this compressed version in the production environment. The efficiency of a web page increases when the minimized version of jQuery is used.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+### Ques. What are the selectors in jQuery? How many types of selectors in jQuery?
+In order to work with any element on the web page, we would first need to find it. Selectors find the HTML elements in jQuery. Some of the most commonly used and basic selectors are:
+* Name: Used to select all elements which matches the given element Name.
+* #ID: Used to select a single element which matches with the given ID
+* .Class: Used to select all elements which match with the given Class.
+* Universal (*): Used to select all elements available in a DOM.
+* Multiple Elements E, F, G: Used to selects the combined results of all the specified selectors E, F or G.
+* Attribute Selector: Used to select elements based on its attribute value.
+
+   **[⬆ Back to Top](#table-of-contents)**
+
+### difference between prop() and attr()?
+* Both prop() and attr() can be used to get or set the value of the specified property of an element attribute.
+* The attr() gives the default value of a property whereas prop() returns its current value.
+
+### Ques. What function is used to stop your jQuery for a few milliseconds?
+   delay()
+
+
 **[⬆ Back to Top](#table-of-contents)**
 
 1. ### What are the possible ways to create objects in JavaScript?
