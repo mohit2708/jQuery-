@@ -4,6 +4,7 @@
 
 | No. | Questions |
 |---- | ---------
+|0  | [What is JavaScript?](#what-are-the-possible-ways-to-create-objects-in-javascript) |
 |1  | [What are the possible ways to create objects in JavaScript?](#what-are-the-possible-ways-to-create-objects-in-javascript) |
 |2  | [What is prototype chain?](#what-is-prototype-chain)|
 |3  | [What is the difference between Call, Apply and Bind?](#what-is-the-difference-between-call-apply-and-bind)|
@@ -405,6 +406,24 @@
 |398| [](#)|
 |399| [](#)|
 |400| [](#)|
+
+
+
+### Ques. What is JavaScript?
+__Ans.__
+* JavaScript is a Client-side as well as server side scripting language that can be inserted into HTML pages. JavaScript is also an object based Programming language.
+* JavaScript is the programming language of HTML and the Web.
+* JavaScript was created by Brendan Eich in September 1995.
+* JavaScript is a case sensitive language.
+* Netscape is the software company who developed JavaScript.
+
+     **[⬆ Back to Top](#table-of-contents)**
+
+110. ### What is ECMAScript?
+     * ECMAScript is the scripting language that forms the basis of JavaScript. ECMAScript standardized by the ECMA International standards organization in the ECMA-262 and ECMA-402 specifications. The first edition of ECMAScript was released in 1997.
+     * ECMAScript (European Computer Manufacturers Association) Script is a specification for the scripting language standards. It has standardized Javascript which made Javascript the best implementation of ECMAScript.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 1. ### What are the possible ways to create objects in JavaScript?
 
@@ -1792,11 +1811,6 @@ function userDetails(username) {
 
      }, false);
      ```
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-110. ### What is ECMAScript?
-     ECMAScript is the scripting language that forms the basis of JavaScript. ECMAScript standardized by the ECMA International standards organization in the ECMA-262 and ECMA-402 specifications. The first edition of ECMAScript was released in 1997.
 
      **[⬆ Back to Top](#table-of-contents)**
 
